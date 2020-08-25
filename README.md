@@ -1,0 +1,1 @@
+This page was created for a project in The Odin Project.
